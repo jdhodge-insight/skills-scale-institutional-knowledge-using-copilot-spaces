@@ -15,6 +15,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Include issue link and acceptance criteria in PR description
   - Run automated tests and linting in CI before requesting review
   - Require at least one approval before merging (or team-defined policy)
+  - Follow the PR checklist: ./templates/pr-checklist.md
 
 ## Quality & Testing
 - Unit tests for new logic
